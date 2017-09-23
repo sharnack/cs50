@@ -16,7 +16,7 @@ int main(int argc, string argv[])
     {
         // convert user input string into an int
         int k = atoi(argv[1]);
-        // variable to store current cipher in while encrypting
+        // variable to store current cipher in, while encrypting
         int c;
         // ask user for plaintext
         printf("plaintext: ");
